@@ -1,4 +1,4 @@
-## Hi there 
+## Hi there 🤙
 
 I'm a Full-Stack Developer specializing in high-performance microservices and Natural Language Processing. I bridge the gap between sleek frontends and distributed backend architectures.
 
